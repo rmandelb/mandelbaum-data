@@ -10,12 +10,17 @@ fig2/ directory, the filename includes the luminosity bin.  In the fig3/ directo
 includes the luminosity bin and either "highden" for high density or "lowden" for low density.
 
 The files that contain the signal from the data have 3 columns:
+
 1. R (transverse separation in comoving kpc/h)
+
 2. \Delta\Sigma (in h*Msun/(comoving pc)^2)
+
 3. Error on \Delta\Sigma
 
 The files that contain the theoretical signal have four columns, but
 only the first two are important:
+
 1. R (transverse separation in comoving Mpc/h) - note that this is
 not in kpc/h like the data
+
 2. \Delta\Sigma (in h*Msun/(comoving pc)^2)
