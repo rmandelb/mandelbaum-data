@@ -1,5 +1,5 @@
 This directory contains data from [this paper from
-2015](http://adsabs.harvard.edu/abs/2015arXiv150906762M) about the galaxy halo mass vs. stellar mass
+2015](http://adsabs.harvard.edu/abs/2016MNRAS.457.3200M) about the galaxy halo mass vs. stellar mass
 relation for locally brightest galaxies, split into red and blue subsamples.
 
 The two subdirectories contain the lensing signals for LBGs and all Main sample galaxies,
