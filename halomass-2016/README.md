@@ -11,3 +11,5 @@ file containing the rebinned data has "rebin" in the filename.
 The data files contain a single column with the transverse separation in physical Mpc/h, followed by
 pairs of columns that have DeltaSigma and its 1-sigma uncertainty (h Msun/(physical pc)^2).  The
 stellar mass bins for those columns are given in the proper order in the header line.
+
+Following agreement from collaborator Wenting Wang, who produced the LBG sample, the LBG sample used for this work may be downloaded from [here](https://cmu.box.com/s/d11e3tnaz0p0m83h64pserm9z9andiva).  When using this catalog, please reference both [Mandelbaum et al 2016](http://adsabs.harvard.edu/abs/2016MNRAS.457.3200M) and [Wang et al 2016](https://ui.adsabs.harvard.edu/abs/2016MNRAS.456.2301W/abstract).
